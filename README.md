@@ -9,6 +9,10 @@
 - 💬 Preguntame sobre organización y planificación del tiempo✨
 - ⚡ Dato curioso: amo hacer postres 🍭
 
+<div align='right'>
+ 
+  ![Profile views](https://gpvc.arturio.dev/Angie-Santos)
 
+</div>
 
 
