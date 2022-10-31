@@ -1,7 +1,12 @@
-### Hola, hola! ✨
 
-![WelcomeToMyProfileWelcomeGIF (2)](https://user-images.githubusercontent.com/85910626/193167653-4bb70b84-fa61-4a24-b662-45bc4bdee0a4.gif)
 
-Estudiando programación encontré diversidad de opiniones, soluciones, ideas y personas. Esto me ha permitido estar en constante aprendizaje, retándome y adaptándome día tras día, He hecho parte de equipos donde mediante metodologías ágiles hemos desarrollado nuestros proyectos con resultados satisfactorios, siempre pensando en darle el mejor producto al usuario y aprender en el proceso. Tengo el deseo de seguir creciendo personal y profesionalmente y así, poder aportar mi conocimiento y amor por lo que hago a la industria del futuro.
+![GithubGIF](https://user-images.githubusercontent.com/85910626/198911946-b523a850-30a6-4d42-9f4d-5a8c5aa48c8a.gif)
+
+- 🔭 Front End Dev, técnica en sistemas
+- 🌱 Actualmente soy estudiante en el Bootcamp de Laboratoria
+- 💬 Preguntame sobre organización y planificación del tiempo✨
+- ⚡ Dato curioso: amo hacer postres 🍭
+
+
 
 
