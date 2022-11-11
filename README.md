@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <h1>✨ Hola, hola ✨</h1>
+  <h1>Hola, hola ✨</h1>
   <img src="https://i.ibb.co/ZdpmRz2/Dise-o-sin-t-tulo-5.png" alt='banner' width="900px">
 </div>
 <br>
