@@ -5,7 +5,7 @@
 Me llamo Angie y soy Front-End Developer con conocimientos en React, JS, CSS y HTML. Me apasiona trabajar en proyectos colaborativos y aprender cosas nuevas.
 * 🎮 Egresada del Bootcamp de Laboratoria y técnica en Sistemas
 * 🧐 Interesada en Software Development
-* 🌱 Actualmente estoy aprendiendo React
+* 🌱 Actualmente estoy aprendiendo Backend
 * ❤️ Amante de los animalitos
 
 ## Tecnologías 👩🏻‍💻
