@@ -2,11 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&color=A94DF3&center=true&vCenter=true&multiline=true&width=1024&height=88&lines=Angie+Santos;Front-End+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## Acerca de mí 🌷
-Me llamo Angie y soy Front-End Developer con conocimientos en React, JS, CSS y HTML. Me apasiona trabajar en proyectos colaborativos y aprender cosas nuevas.
+Me llamo Angie y soy Web dev. Me apasiona trabajar en proyectos colaborativos y aprender cosas nuevas.
+* 🎓 Estudiante ingeniería de sistemas
 * 🎮 Egresada del Bootcamp de Laboratoria y técnica en Sistemas
-* 🧐 Interesada en Software Development
-* 🌱 Actualmente estoy aprendiendo Backend
-* ❤️ Amante de los animalitos
+
 
 ## Tecnologías 👩🏻‍💻
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,17 +29,5 @@ Me llamo Angie y soy Front-End Developer con conocimientos en React, JS, CSS y H
 
 </div>
 
-## Contacto 📩
-Si estás interesado/a en colaborar conmigo en algún proyecto, ¡no dudes en contactarme! 
-<br>
-
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angie-santos/)
-<a href="mailto:ajsag12@gmail.com"> ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-
-<div align='right'>
- 
-  ![Profile views](https://gpvc.arturio.dev/Angie-Santos)
-
-</div>
 
 
